@@ -31,7 +31,7 @@ for (j = 1; j <= len; j++)
 digit = n / pow;
 _putchar(digit + '0');
 count++;
-n -= (digit * pow);
+n -= (digit *pow);
 pow /= 8;
 }
 }
