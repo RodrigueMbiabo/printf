@@ -1,4 +1,4 @@
-# 0x11. C - More functions, more nested loops
+# 0x11. C - printf
 
 ## Contributors
 
