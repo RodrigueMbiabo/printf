@@ -1,6 +1,5 @@
 # Prerequisites
 *.d
-*main.c
 /testc
 # Object files
 *.o
