@@ -18,25 +18,24 @@ An introductory project on:
 **[_put.c](_put.c)** - converts a number according to the base passed as a parameter.
 
 **[convert.c](convert.c)** - converter function
+
 **[convert_number.c](convert_number.c)** - prints unsigned hex numbers in lowercase.
 
-_put.c converter function convert_number.c.
+**[main.h](main.h)** - struct parameters - parameters struct.
 
-**[main.h](main.h)** -.
+**[man_3_printf](man_3_printf)** - executable file using to test other function like _printf.c orElse
 
-**[man_3_printf](man_3_printf)** -.
+**[params.c](params.c)** - using to clears struct fields and reset buf.
 
-**[params.c](params.c)** -.
+**[print-functions.c](print-functions.c)** - using to prints character.
 
-**[print-functions.c](print-functions.c)** -.
+**[print-number.c](print-number.c)** - using to checks if character is digit.
 
-**[print-number.c](print-number.c)** -.
+**[simple-printers.c](simple-printers.c)** - using to prints a range of char addresses.
 
-**[simple-printers.c](simple-printers.c)** -.
+**[specifier.c](specifier.c)** - using to finds the format func.
 
-**[specifier.c](specifier.c)** -.
-
-**[string_fields.c](string_fields.c)** -.
+**[string_fields.c](string_fields.c)** - using to gets the precision from the format string.
 
 ## Usage
 - Prints a string to the standard output, according to a given format
